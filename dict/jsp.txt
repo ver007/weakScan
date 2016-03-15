@@ -1,0 +1,64 @@
+
+# Java web
+/WEB-INF/web.xml	{tag="xml"}	{status=200}
+/WEB-INF/web.xml.bak	{tag="xml"}	{status=200}
+/WEB-INF/applicationContext.xml	{tag="xml"}	{status=200}
+/WEB-INF/applicationContext-slave.xml	{tag="xml"}	{status=200}
+/WEB-INF/config.xml	{tag="xml"}	{status=200}
+/WEB-INF/spring.xml	{tag="xml"}	{status=200}
+/WEB-INF/struts-config.xml	{tag="xml"}	{status=200}
+/WEB-INF/struts-front-config.xml	{tag="xml"}	{status=200}
+/WEB-INF/struts/struts-config.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/
+/axis2/services/listServices
+/solr/admin/file/?file=solrconfig.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/config/
+/WEB-INF/classes/spring.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/struts.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/struts_manager.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/conf/datasource.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/data.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/config/applicationContext.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/applicationContext.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/conf/spring/applicationContext-datasource.xml	{tag="xml"}	{status=200}
+/WEB-INF/config/db/dataSource.xml	tag="xml"}	{status=200}
+/WEB-INF/spring-cfg/applicationContext.xml	{tag="xml"}	{status=200}
+/WEB-INF/dwr.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/hibernate.cfg.xml	{tag="xml"}	{status=200}
+/WEB-INF/classes/rabbitmq.xml	{tag="xml"}	{status=200}
+/WEB-INF/database.properties	{tag="assword"}	{status=200}  
+/WEB-INF/web.properties	{tag=".url"}	{status=200}      
+/WEB-INF/log4j.properties	{tag="log4j"}	{status=200}      
+/WEB-INF/classes/dataBase.properties	{tag="assword"}	{status=200}    
+/WEB-INF/classes/application.properties	{tag="assword"}	{status=200}    
+/WEB-INF/classes/jdbc.properties	{tag="jdbc"}	{status=200}    
+/WEB-INF/classes/db.properties	{tag="assword"}	{status=200}    
+/WEB-INF/classes/conf/jdbc.properties	{tag="assword"}	{status=200}    
+/WEB-INF/classes/security.properties	{tag="assword"}	{status=200}    
+/WEB-INF/conf/database_config.properties	{tag="roperties"}	{status=200}
+/WEB-INF/config/dbconfig	{tag="property"}	{status=200}
+/WEB-INF/conf/activemq.xml	{tag="xml"}	{status=200}
+/server.xml	{tag="xml"}	{status=200}
+/config/database.yml	{tag="xml"}	{status=200}
+
+
+# webshell
+/shell.jsp	{status=200}
+/phpspy.jsp		{status=200}
+/hack.jsp		{status=200}
+/1.jsp		{status=200}
+/2.jsp		{status=200}
+/3.jsp		{status=200}
+/s.jsp		{status=200}
+/silic.jsp	{status=200}
+ 
+ 
+/upload.do	{status=200}
+/upload.jsp	{status=200}
+/cachemonitor/statistics.jsp	{status=200}
+/login.do	{status=200}
+/admin.do	{status=200}
+/login.jsp	{status=200}
+/admin.jsp	{status=200}
+
+/ui/common/easyQueryVer3/EasyQueryVer3Window.jsp	{status=200}

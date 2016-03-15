@@ -1,0 +1,45 @@
+#config备份文件
+/wp-config.php.bak	{status=200}
+/configuration.php.bak	{status=200}
+/sites/default/settings.php.bak	{status=200}
+/config.php.bak	{status=200}
+/config.inc.php.bak	{status=200}
+/conf/_basic_config.php.bak	{status=200}
+/config/site.php.bak	{status=200}
+/system/config/default.php.bak	{status=200}
+/framework/conf/config.php.bak	{status=200}
+/mysite/_config.php.bak	{status=200}
+/typo3conf/localconf.php.bak	{status=200}
+/config/config_global.php.bak	{status=200}
+/config/config_ucenter.php.bak	{status=200}
+/textpattern/config.php.bak	{status=200}
+/lib/config.functions.php.bak	{status=200}
+/data/config.php.bak	{status=200}
+/data/config.inc.php.bak	{status=200}
+/includes/config.php.bak	{status=200}
+/data/common.inc.php.bak	{status=200}
+/caches/configs/database.php.bak	{status=200}
+/caches/configs/system.php.bak	{status=200}
+/include/config.inc.php.bak	{status=200}
+/phpsso_server/caches/configs/database.php.bak	{status=200}
+/phpsso_server/caches/configs/system.php.bak	{status=200}
+
+#Discuz!
+/config/config_ucenter.php.bak	{status=200}
+/bbs/config/config_ucenter.php.bak	{status=200}
+/config/config_global.php.1	{status=200}
+/uc_server/data/config.inc.php.bak	{status=200}
+/config/config_global.php.bak	{status=200}
+/uc_server/data/config.inc.php.bak	{status=200}
+/include/config.inc.php	{status=200}
+/include/config.inc.php.temp	{status=200}
+/bbs/.config.inc.php.swp	{status=200}
+
+# Wordpress
+/wp-login.php	{tag="user_login"} {status=200}
+/wp-admin/
+/wp-config.inc	{status=200}     
+/wp-config.old	{status=200}
+/wp-config.php.inc	{status=200}
+/wp-config.php~	{status=200}
+/wordpress/	{status=200}

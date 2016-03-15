@@ -1,0 +1,1 @@
+/library/editornew/Editor/temp.asp	{status=200}

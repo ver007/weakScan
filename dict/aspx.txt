@@ -1,0 +1,21 @@
+# Upload
+/Common/UpLoadFile.aspx	{status=200}
+/upload.aspx	{status=200}
+/ftb.imagegallery.aspx	{status=200}
+/EpointBigFileUpload/FCKFile/EpointFileServer.asmx	{status=200}
+
+# Login
+/admin.aspx	{status=200}
+/login.aspx	{status=200}
+
+#敏感文件
+
+# webshell
+/shell.aspx	{status=200}
+/phpspy.aspx		{status=200}
+/hack.aspx		{status=200}
+/1.aspx		{status=200}
+/2.aspx		{status=200}
+/3.aspx		{status=200}
+/s.aspx		{status=200}
+/r00ts.aspx		{status=200}
